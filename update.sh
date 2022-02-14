@@ -1,4 +1,5 @@
-# 移动、修改该文件（假如存在的话）
+# 移动、修改该文件（假如存在的话）、先删除backup (如果有）
+rm ~/Library/Developer/Xcode/Templates.backup
 mv ~/Library/Developer/Xcode/Templates ~/Library/Developer/Xcode/Templates.backup
 
 # 先移除原来的文件
